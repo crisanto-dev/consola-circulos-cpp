@@ -1,0 +1,4 @@
+﻿  circulos-cpp.cpp
+c:\users\17819\source\repos\ejercicios\circulos-cpp\circulos-cpp\circulos-cpp.cpp(63): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\17819\source\repos\ejercicios\circulos-cpp\circulos-cpp\circulos-cpp.cpp(68): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  circulos-cpp.vcxproj -> C:\Users\17819\source\repos\Ejercicios\circulos-cpp\Debug\circulos-cpp.exe
